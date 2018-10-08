@@ -4,7 +4,7 @@
 
 Esta sesión pretende revisar con detalle las características de la red TOR, desde distintos puntos de vista, sentando una base sólida que permita descartar los prejuicios, mitos y leyendas urbanas que circulan sobre esta red.
 
-La agenda inicial de la sesión incluye los siguientes temas:
+La agenda inicial de la sesión, totalmente práctica, incluye los siguientes temas:
 
 - ¿qué es la red TOR?
 - la red TOR no es mala :-)
