@@ -2,15 +2,17 @@
 
 ### Propósito
 
-Esta sesión pretende desmitificar algunos aspectos de la red TOR, así como servir de introducción al uso de la misma en servicios de la institución.
+Esta sesión pretende revisar con detalle las características de la red TOR, desde distintos puntos de vista, sentando una base sólida que permita descartar los prejuicios, mitos y leyendas urbanas que circulan sobre esta red.
 
 La agenda inicial de la sesión incluye los siguientes temas:
 
 - ¿qué es la red TOR?
-- la red TOR no es mala
-- usando la red TOR
-- prestando servicios a usuarios de TOR
+- la red TOR no es mala :-)
+- soy un usuario de la red TOR
+- se conectan a mis servicios corporativos desde la red TOR
 - ofreciendo servicios .onion
+
+Durante la sesión se abordarán temas relacionados con otros servicios de la comunidad: medidas de seguridad, configuración del IdP de la institución, obtención de certificados digitales, etc.
 
 ### Audiencia
 
@@ -18,11 +20,18 @@ Técnicos de instituciones afiliadas interesados en conocer más sobre la red TO
 
 ### Herramientas
 
-Navegador web [TOR browser](https://www.torproject.org/projects/torbrowser.html.en).
+El [proyecto TOR](https://www.torproject.org/) proporciona todas las herramientas necesarias:
+
+* Tor Browser
+* Expert Bundle
+
+Para completar la práctica de los servicios .onion se requerirá también un **servidor Web** (**ncat** sería suficiente).
+
+Los usuarios que trabajen con Windows 10 pueden activar el *Subsistema de Windows para Linux* (WSL) e instalar un Ubuntu (o la distribución que prefieran) para que sea más cómodo el uso de estas herramientas.
 
 ### Duración
 
-Entre 1 y 2 horas
+3 horas
 
 ### Aforo
 
