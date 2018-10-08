@@ -2,7 +2,7 @@
 
 ### Propósito
 
-Esta sesión pretende que instituciones que no hayan tenido contacto con eduroam CAT la configuración de perfiles eduroam.
+Esta sesión pretende que instituciones que no hayan tenido contacto con eduroam CAT conozcan los detalles para generar la configuración de perfiles eduroam.
 
 Se repasarán las novedades incluidas en la reciente versión 2.0 de eduroam CAT.
 
