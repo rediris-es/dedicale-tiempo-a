@@ -16,7 +16,15 @@ Técnicos de instituciones afiliadas interesados en conocer más sobre la red TO
 
 ### Herramientas
 
-Navegador web [TOR browser](https://www.torproject.org/projects/torbrowser.html.en).
+El [proyecto TOR](https://www.torproject.org/) proporciona todas las herramientas necesarias:
+
+* Tor Browser
+* Expert Bundle
+
+[SimpleSAMLphp](https://simplesamlphp.org/) como IdP.
+
+Los usuarios que trabajen con Windows 10 pueden activar el *Subsistema de Windows para Linux* (WSL) e instalar un Ubuntu (o la distribución que prefieran) para que sea más cómodo el uso de estas herramientas.
+
 
 ### Duración
 
