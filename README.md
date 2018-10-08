@@ -1,3 +1,3 @@
 # Sesiones dedícale tiempo a...
 
-Este proyecto sirve para describir cada sesión "dedícale tiempo a", como para incluir los materiales de las mismas.
+Este proyecto sirve para describir cada sesión "dedícale tiempo a", así como para incluir los materiales de las mismas.
