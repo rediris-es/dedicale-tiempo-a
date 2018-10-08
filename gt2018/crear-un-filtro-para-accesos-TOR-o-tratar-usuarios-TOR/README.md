@@ -1,13 +1,14 @@
-## Sesión: Dedícale tiempo a... la red TOR y conviértete en un experto
+## Sesión: Dedícale tiempo a... controlar accesos desde la red TOR y conviértete en un experto
 
 ### Propósito
 
-Esta sesión pretende avanzar más en el conocimiento de la red TOR, poniendo en práctica la securización de un servicio en TOR, y explicando la posibilidad de filtrar o aceptar accesos desde la red TOR a un IdP basado en SimpleSAMLphp.
+Esta sesión pretende valorar las medidas que se pueden aplicar cuando nuestros usuarios (legítimos o no) utilizan la red TOR para acceder a los servicios corporativos. Utilizando un IdP basado en SimpleSAMLphp se mostrarán algunos ejemplos.
 
-Esta sesión tendrá un carácter más práctico, y se verán los siguientes aspectos:
+Esta sesión tendrá un carácter totalmente práctico y se verán los siguientes aspectos:
 
-- certificados digitales para mis servicios .onion
-- validando la seguridad del servicio
+- no te dejo entrar si utilizas TOR
+- has entrado desde TOR, pero todos nos hemos enterado
+- si quieres entrar desde TOR, hay alguna barrera nueva
 
 ### Audiencia
 
