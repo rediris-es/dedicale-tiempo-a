@@ -29,10 +29,6 @@ Para completar la práctica de los servicios .onion se requerirá también un **
 
 Los usuarios que trabajen con Windows 10 pueden activar el *Subsistema de Windows para Linux* (WSL) e instalar un Ubuntu (o la distribución que prefieran) para que sea más cómodo el uso de estas herramientas.
 
-### Duración
-
-3 horas
-
 ### Aforo
 
 Entre 15 y 20 personas. Se confirmará plaza con anterioridad.
