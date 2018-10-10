@@ -25,11 +25,6 @@ El [proyecto TOR](https://www.torproject.org/) proporciona todas las herramienta
 
 Los usuarios que trabajen con Windows 10 pueden activar el *Subsistema de Windows para Linux* (WSL) e instalar un Ubuntu (o la distribución que prefieran) para que sea más cómodo el uso de estas herramientas.
 
-
-### Duración
-
-Entre 1 y 2 horas
-
 ### Aforo
 
 Entre 15 y 20 personas. Se confirmará plaza con anterioridad.

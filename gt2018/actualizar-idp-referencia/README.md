@@ -14,10 +14,6 @@ Técnicos de instituciones en la federación SIR2 que tengan instalado el softwa
 
 Podrá participarse tanto sobre el software original, por medio de los mecanismos de acceso que tenga habilitados la institución (generalmente VPN+SSH), así como sobre una máquina virtual o contenedor con el software instalado.
 
-### Duración
-
-Entre 1 y 2 horas
-
 ### Aforo
 
 Entre 15 y 20 personas. Se confirmará plaza con anterioridad.

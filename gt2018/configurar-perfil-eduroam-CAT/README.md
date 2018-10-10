@@ -19,10 +19,6 @@ Navegador web. Conocimiento de los detalles de configuración EAP de la organiza
 * CA firmante del certificado
 * Usuario remoto para pruebas
 
-### Duración
-
-Entre 1 y 2 horas
-
 ### Aforo
 
 Entre 15 y 20 personas. Se confirmará plaza con anterioridad.
